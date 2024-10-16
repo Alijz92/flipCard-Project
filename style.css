@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.deck {
+  width: 260px;
+  height: 170px;
+  background-color: #3333;
+  border: 2px solid #3398;
+  border-radius: 4px;
+  margin-right: 5px;
+}
+
+#Memory-Game {
+  margin: 0 auto;
+  margin-top: 50px;
+  border: 2px solid #dddddd;
+  border-radius: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 5px 0;
+  width: 800px;
+  height: 700px;
+}
